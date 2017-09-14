@@ -10,8 +10,8 @@ package task1;
  * @author Cainebourne
  */
 public class Animal {
-    int age;
-    int weight;
+    private int age;
+    private int weight;
     
     public void speak(){
         System.out.println("unknown");

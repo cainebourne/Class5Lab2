@@ -7,8 +7,8 @@ package task3;
  */
 public class Cat implements Feline {
 
-    int age;
-    int weight;
+    private int age;
+    private int weight;
     
     @Override
     public void speak() {

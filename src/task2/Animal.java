@@ -10,8 +10,8 @@ package task2;
  * @author Cainebourne
  */
 public abstract class Animal {
-     int age;
-     int weight;
+     private int age;
+     private int weight;
      
      public abstract void speak();
 
